@@ -26,13 +26,28 @@ not just notebooks that stop at accuracy scores.
 
 ---
 
-## 🧠 Tech I Use
+## 🧠 Tech Stack
+
+### 💻 Languages
 
 <table>
   <tr>
     <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="44"/><br/>C
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="44"/><br/>C++
+    </td>
+    <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44"/><br/>Python
     </td>
+  </tr>
+</table>
+
+### 📚 Libraries & Frameworks
+
+<table>
+  <tr>
     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="44"/><br/>NumPy
     </td>
@@ -43,7 +58,23 @@ not just notebooks that stop at accuracy scores.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44"/><br/>Scikit-learn
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44"/><br/>MySQL
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="44"/><br/>Matplotlib
+    </td>
+    <td align="center" width="90">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="44"/><br/>Seaborn
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Version Control & Tools
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44"/><br/>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="44"/><br/>GitHub
     </td>
     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="44"/><br/>Jupyter
@@ -52,10 +83,20 @@ not just notebooks that stop at accuracy scores.
       <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="44"/><br/>Kaggle
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44"/><br/>Git
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="44"/><br/>VS Code
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44"/><br/>MySQL
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="44"/><br/>GitHub
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="44"/><br/>SQLite
     </td>
   </tr>
 </table>
