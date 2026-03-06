@@ -151,6 +151,20 @@ Hands-on projects using real datasets, focusing on preprocessing, modeling, and 
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARSHIDS-4/HARSHIDS-4/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARSHIDS-4/HARSHIDS-4/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake Graph" src="https://raw.githubusercontent.com/HARSHIDS-4/HARSHIDS-4/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
 ## 🧩 One Line That Defines Me
 > *I build slowly, learn deeply, and improve every day.*
 
