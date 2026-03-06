@@ -135,20 +135,11 @@ Hands-on projects using real datasets, focusing on preprocessing, modeling, and 
 
 <div align="center">
 
-![followers](https://img.shields.io/github/followers/HARSHIDS-4?label=Followers&style=for-the-badge&color=6AD3FF&labelColor=0d1117)
-![stars](https://img.shields.io/github/stars/HARSHIDS-4?label=Stars&style=for-the-badge&color=6AD3FF&labelColor=0d1117)
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=HARSHIDS-4&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 
 <br/><br/>
 
 <img src="https://github-stats-alpha.vercel.app/api?username=HARSHIDS-4&cc=0d1117&tc=6AD3FF&ic=6AD3FF&bc=0d1117" alt="GitHub Stats"/>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=HARSHIDS-4&color=6AD3FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -156,30 +147,13 @@ Hands-on projects using real datasets, focusing on preprocessing, modeling, and 
 
 ## 🐍 Contribution Activity
 
-> *Every green square is a step forward. Every commit is a proof of consistency.*
-
 <div align="center">
-
-<!-- Contribution stats badges -->
-![GitHub commits](https://img.shields.io/github/commit-activity/m/HARSHIDS-4/HARSHIDS-4?style=for-the-badge&color=6AD3FF&labelColor=0d1117&label=Commits%20This%20Month)
-![GitHub last commit](https://img.shields.io/github/last-commit/HARSHIDS-4/HARSHIDS-4?style=for-the-badge&color=6AD3FF&labelColor=0d1117&label=Last%20Commit)
-
-<br/>
-
-```
-📅 Contribution Heatmap — each square = a day of building, learning & shipping
-🟩 Light = active   🟦 Medium = pushing hard   🟪 Dark = in the zone
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARSHIDS-4/HARSHIDS-4/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARSHIDS-4/HARSHIDS-4/output/github-contribution-grid-snake.svg"/>
   <img alt="Contribution Snake Graph" src="https://raw.githubusercontent.com/HARSHIDS-4/HARSHIDS-4/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
-
-<br/>
-
-> 🚀 *"The graph is sparse now — but every expert was once a beginner."*
 
 </div>
 
