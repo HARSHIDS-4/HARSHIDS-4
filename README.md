@@ -138,12 +138,19 @@ Hands-on projects using real datasets, focusing on preprocessing, modeling, and 
 ![followers](https://img.shields.io/github/followers/HARSHIDS-4?label=Followers&style=for-the-badge&color=6AD3FF&labelColor=0d1117)
 ![stars](https://img.shields.io/github/stars/HARSHIDS-4?label=Stars&style=for-the-badge&color=6AD3FF&labelColor=0d1117)
 
-<a href="https://github.com/HARSHIDS-4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HARSHIDS-4&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIDS-4&layout=compact&theme=react&hide_border=true"/>
-</a>
+<br/><br/>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=HARSHIDS-4&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HARSHIDS-4&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIDS-4&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HARSHIDS-4&color=6AD3FF&style=for-the-badge&label=PROFILE+VIEWS)
 
