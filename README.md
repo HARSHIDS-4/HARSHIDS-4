@@ -154,15 +154,32 @@ Hands-on projects using real datasets, focusing on preprocessing, modeling, and 
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
+
+> *Every green square is a step forward. Every commit is a proof of consistency.*
 
 <div align="center">
+
+<!-- Contribution stats badges -->
+![GitHub commits](https://img.shields.io/github/commit-activity/m/HARSHIDS-4/HARSHIDS-4?style=for-the-badge&color=6AD3FF&labelColor=0d1117&label=Commits%20This%20Month)
+![GitHub last commit](https://img.shields.io/github/last-commit/HARSHIDS-4/HARSHIDS-4?style=for-the-badge&color=6AD3FF&labelColor=0d1117&label=Last%20Commit)
+
+<br/>
+
+```
+📅 Contribution Heatmap — each square = a day of building, learning & shipping
+🟩 Light = active   🟦 Medium = pushing hard   🟪 Dark = in the zone
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARSHIDS-4/HARSHIDS-4/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARSHIDS-4/HARSHIDS-4/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake Graph" src="https://raw.githubusercontent.com/HARSHIDS-4/HARSHIDS-4/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake Graph" src="https://raw.githubusercontent.com/HARSHIDS-4/HARSHIDS-4/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+
+<br/>
+
+> 🚀 *"The graph is sparse now — but every expert was once a beginner."*
 
 </div>
 
