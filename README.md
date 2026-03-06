@@ -144,11 +144,7 @@ Hands-on projects using real datasets, focusing on preprocessing, modeling, and 
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HARSHIDS-4&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIDS-4&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=HARSHIDS-4&cc=0d1117&tc=6AD3FF&ic=6AD3FF&bc=0d1117" alt="GitHub Stats"/>
 
 <br/><br/>
 
