@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I’m Harshi  
+# 👋 Hi, I'm Harshi  
 ### *Building intelligence from data, not just models.*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6AD3FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;ML+Backend+Builder;Turning+Data+into+Decisions;Learning.+Building.+Improving." />
@@ -10,7 +10,7 @@
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
 
 ## 🧭 About Me
-I’m an **Artificial Intelligence & Data Science student** who believes that  
+I'm an **Artificial Intelligence & Data Science student** who believes that  
 strong fundamentals + real projects = real growth.
 
 I focus on building ML systems that are **practical, backend-ready, and meaningful**,  
@@ -27,14 +27,38 @@ not just notebooks that stop at accuracy scores.
 ---
 
 ## 🧠 Tech I Use
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="44"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="44"/>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44"/><br/>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="44"/><br/>NumPy
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="44"/><br/>Pandas
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44"/><br/>Scikit-learn
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44"/><br/>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="44"/><br/>Jupyter
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="44"/><br/>Kaggle
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44"/><br/>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="44"/><br/>GitHub
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,7 +91,14 @@ Hands-on projects using real datasets, focusing on preprocessing, modeling, and 
 ---
 
 ## 📈 GitHub Snapshot
-<img src="https://github-readme-stats.vercel.app/api?username=HARSHIDS-4&show_icons=true&theme=react&hide_border=true"/>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARSHIDS-4&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIDS-4&layout=compact&theme=react&hide_border=true&cache_seconds=1800)
+
+</div>
 
 ---
 
