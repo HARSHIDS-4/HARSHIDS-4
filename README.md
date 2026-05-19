@@ -164,23 +164,17 @@ Hands-on projects using real datasets, focusing on preprocessing, modeling, and 
 
 ---
 
-## 📅 Contribution Calendar
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HARSHIDS-4&theme=react&hide_border=true&layout=compact" alt="Top Languages"/>
+<a href="https://github.com/HARSHIDS-4">
+  <img alt="HARSHIDS-4's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HARSHIDS-4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6AD3FF&icon_color=6AD3FF" height="192px" width="49.5%"/>
+</a>
 
-</div>
-
----
-
-## 📊 Activity Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HARSHIDS-4&theme=react" alt="Repos Per Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HARSHIDS-4&theme=react" alt="Most Commit Language"/>
+<a href="https://github.com/HARSHIDS-4">
+  <img alt="HARSHIDS-4's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=HARSHIDS-4&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6AD3FF&text_color=6AD3FF" height="192px" width="49.5%"/>
+</a>
 
 </div>
 
