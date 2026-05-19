@@ -164,16 +164,22 @@ Hands-on projects using real datasets, focusing on preprocessing, modeling, and 
 
 ---
 
-## 📊 GitHub Analytics
+## 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://github-contribution-stats.vercel.app/api?username=HARSHIDS-4&theme=tokyonight" alt="Contribution Calendar" width="100%"/>
+
+</div>
+
+---
+
+## 📊 Activity Overview
 
 <div align="center">
 
 <a href="https://github.com/HARSHIDS-4">
-  <img alt="HARSHIDS-4's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HARSHIDS-4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6AD3FF&icon_color=6AD3FF" height="192px" width="49.5%"/>
-</a>
-
-<a href="https://github.com/HARSHIDS-4">
-  <img alt="HARSHIDS-4's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=HARSHIDS-4&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6AD3FF&text_color=6AD3FF" height="192px" width="49.5%"/>
+  <img alt="HARSHIDS-4's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=HARSHIDS-4&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6AD3FF&text_color=6AD3FF" height="192px" width="100%"/>
 </a>
 
 </div>
