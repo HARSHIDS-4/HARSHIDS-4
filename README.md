@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Harshi  
 ### *Building intelligence from data, not just models.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6AD3FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;ML+Backend+Builder;Turning+Data+into+Decisions;Learning.+Building.+Improving." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6AD3FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;ML+Backend+Builder;Turning+Data+i[...]" alt="Typing SVG"/>
 
 </div>
 
@@ -62,6 +62,17 @@ not just notebooks that stop at accuracy scores.
     </td>
     <td align="center" width="90">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="44"/><br/>Seaborn
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="44"/><br/>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="44"/><br/>Streamlit
+    </td>
+    <td align="center" width="90">
+      <img src="https://docs.reder.io/img/logo.svg" width="44"/><br/>Reder
     </td>
   </tr>
 </table>
