@@ -77,7 +77,7 @@ not just notebooks that stop at accuracy scores.
       <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="44"/><br/>Streamlit
     </td>
     <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="44"/><br/>Render
+      <img src="https://www.svgrepo.com/show/354398/render.svg" width="44"/><br/>Render
     </td>
     <td align="center" width="90">
       <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="44"/><br/>Pydantic
