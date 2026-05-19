@@ -66,7 +66,7 @@ not just notebooks that stop at accuracy scores.
   </tr>
 </table>
 
-### 🎨 Frameworks
+### 🎨 Frameworks & Deployment
 
 <table>
   <tr>
