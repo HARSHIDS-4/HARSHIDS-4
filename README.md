@@ -79,6 +79,9 @@ not just notebooks that stop at accuracy scores.
     <td align="center" width="90">
       <img src="https://render.com/images/render-logo.png" width="44"/><br/>Render
     </td>
+    <td align="center" width="90">
+      <img src="https://docs.pydantic.dev/latest/logo-white-background.svg" width="44"/><br/>Pydantic
+    </td>
   </tr>
 </table>
 
