@@ -168,7 +168,7 @@ Hands-on projects using real datasets, focusing on preprocessing, modeling, and 
 
 <div align="center">
 
-<img src="https://github-contribution-stats.vercel.app/api?username=HARSHIDS-4&theme=gruvbox_light" alt="GitHub Contribution Calendar"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HARSHIDS-4&theme=react&hide_border=true&layout=compact" alt="Top Languages"/>
 
 </div>
 
@@ -178,7 +178,9 @@ Hands-on projects using real datasets, focusing on preprocessing, modeling, and 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHIDS-4&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HARSHIDS-4&theme=react" alt="Repos Per Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HARSHIDS-4&theme=react" alt="Most Commit Language"/>
 
 </div>
 
