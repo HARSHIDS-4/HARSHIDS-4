@@ -164,6 +164,26 @@ Hands-on projects using real datasets, focusing on preprocessing, modeling, and 
 
 ---
 
+## 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://github-contribution-stats.vercel.app/api?username=HARSHIDS-4&theme=gruvbox_light" alt="GitHub Contribution Calendar"/>
+
+</div>
+
+---
+
+## 📊 Activity Overview
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHIDS-4&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+
+</div>
+
+---
+
 ## 🐍 Contribution Graph
 
 <div align="center">
