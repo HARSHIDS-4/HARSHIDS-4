@@ -44,7 +44,7 @@ not just notebooks that stop at accuracy scores.
   </tr>
 </table>
 
-### 📚 Libraries & Frameworks
+### 📚 Libraries
 
 <table>
   <tr>
@@ -64,6 +64,11 @@ not just notebooks that stop at accuracy scores.
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="44"/><br/>Seaborn
     </td>
   </tr>
+</table>
+
+### 🎨 Frameworks
+
+<table>
   <tr>
     <td align="center" width="90">
       <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="44"/><br/>FastAPI
@@ -72,7 +77,7 @@ not just notebooks that stop at accuracy scores.
       <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="44"/><br/>Streamlit
     </td>
     <td align="center" width="90">
-      <img src="https://docs.reder.io/img/logo.svg" width="44"/><br/>Reder
+      <img src="https://render.com/images/render-logo.png" width="44"/><br/>Render
     </td>
   </tr>
 </table>
